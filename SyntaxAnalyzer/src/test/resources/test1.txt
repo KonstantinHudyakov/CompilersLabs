@@ -1,0 +1,15 @@
+PROGRAM prog322;
+VAR
+	h2,g6:INTEGER;
+	bool: BOOLEAN;
+BEGIN
+	FOR i := (3 * 2) - ((arg / 3) * bcd) TO f+5 DO
+	BEGIN
+		READ(b4,F);
+	END;
+	bool := false;
+	WRITE();
+	IF (ar < (43 * 21 - 43) / 3) AND (g5r > 4) THEN
+		WRITE(g5);
+	WRITE(true);
+END.
